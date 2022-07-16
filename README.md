@@ -12,4 +12,6 @@ Idealmente que haga algún chequeo de seguridad de algún tipo; lo que quieras.
 a. Se conecte a www.kulkan.com/examen.json
 b. Que imprima en pantalla el Flag legible, contenido dentro del parámetro “data” en la respuesta.
 
-Más allá de la parte de coding, les comparto también el PDF con el resto de las preguntas. El burp extender me costó bocha, no había tanta info pero igualmente lo quería hacer.
+
+---
+> Más allá de la parte de coding, les comparto también el PDF con el resto de las preguntas. El burp extender me costó bocha, no había tanta info pero igualmente lo quería hacer.
