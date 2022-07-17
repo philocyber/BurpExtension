@@ -14,8 +14,9 @@ b. Que imprima en pantalla el Flag legible, contenido dentro del parámetro “d
 
 
 ---
-> Más allá de la parte de coding, les comparto también el PDF con el resto de las preguntas. El burp extender me costó, vi variios videos, tutoriales y la docu de burp pero igaulmente medio quilombo. No lo cuenten el que está porque lo tomé de un libro... igualmente quería intentar hacer ambos. 
-Les dejo un mini video también así lo ven directamente.
+> Más allá de la parte de coding, les comparto también el PDF con el resto de las preguntas. El burp extender me costó, vi varios videos, tutoriales y la docu de burp pero igualmente medio bardo. 
+No cuenten como ejercicio hecho el que está porque lo tomé de un libro... igualmente quería intentar hacer ambos. 
+Les dejo un mini video también así lo ven directamente: https://youtu.be/iy5oqgSLc5Y
 
 De este libro lo saqué
 
