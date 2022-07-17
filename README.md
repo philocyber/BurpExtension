@@ -18,6 +18,8 @@ b. Que imprima en pantalla el Flag legible, contenido dentro del parámetro “d
 Les dejo un mini video también así lo ven directamente.
 
 De este libro lo saqué
+
 <img width="295" alt="image" src="https://user-images.githubusercontent.com/62352124/179425336-2b0e4d82-bddf-497d-8d1f-a91f94953b93.png">
+
 https://learning.oreilly.com/library/view/black-hat-python/9781098128906/
 
